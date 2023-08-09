@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Área de Trabalho\projetoBK Brotas\atividadeRPG\atividadeRPG\bin\Debug\net7.0\atividadeRPG.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Área de Trabalho\projetoBK Brotas\atividadeRPG\atividadeRPG\bin\Debug\net7.0\atividadeRPG.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Área de Trabalho\projetoBK Brotas\atividadeRPG\atividadeRPG\bin\Debug\net7.0\atividadeRPG.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Área de Trabalho\projetoBK Brotas\atividadeRPG\atividadeRPG\bin\Debug\net7.0\atividadeRPG.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Área de Trabalho\projetoBK Brotas\atividadeRPG\atividadeRPG\bin\Debug\net7.0\atividadeRPG.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Área de Trabalho\projetoBK Brotas\atividadeRPG\atividadeRPG\obj\Debug\net7.0\atividadeRPG.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Área de Trabalho\projetoBK Brotas\atividadeRPG\atividadeRPG\obj\Debug\net7.0\atividadeRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Área de Trabalho\projetoBK Brotas\atividadeRPG\atividadeRPG\obj\Debug\net7.0\atividadeRPG.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Área de Trabalho\projetoBK Brotas\atividadeRPG\atividadeRPG\obj\Debug\net7.0\atividadeRPG.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Área de Trabalho\projetoBK Brotas\atividadeRPG\atividadeRPG\obj\Debug\net7.0\atividadeRPG.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Área de Trabalho\projetoBK Brotas\atividadeRPG\atividadeRPG\obj\Debug\net7.0\atividadeRPG.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Área de Trabalho\projetoBK Brotas\atividadeRPG\atividadeRPG\obj\Debug\net7.0\refint\atividadeRPG.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Área de Trabalho\projetoBK Brotas\atividadeRPG\atividadeRPG\obj\Debug\net7.0\atividadeRPG.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Área de Trabalho\projetoBK Brotas\atividadeRPG\atividadeRPG\obj\Debug\net7.0\atividadeRPG.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Área de Trabalho\projetoBK Brotas\atividadeRPG\atividadeRPG\obj\Debug\net7.0\ref\atividadeRPG.dll
