@@ -26,7 +26,7 @@ internal class Program
         p5.apreEvo();
       
 
-            Console.WriteLine("Andando...");
+        Console.WriteLine("Andando...");
         Console.WriteLine("Encontrei um inimigo\n");
         p2.descricao();
         Console.WriteLine($"Checco da {p5.Forca} de dano e deixa {p2.Nome} com {p2.Vida - p5.Forca} de vida e o mata pois ele é frango de academia.\n");
@@ -40,6 +40,9 @@ internal class Program
         p3.descricao();
 
         Console.WriteLine($"Checco da {p5.Forca} de dano e deixa {p3.Nome} com {p3.Vida - p5.Forca} de vida e o danifica mas gustavo contra ataca.\n");
+        p3.evolucao(1, 20, 30, 30);
+        p3.apreEvo();
+        Console.WriteLine("De tanto esforço gustavo evolui e continua a batalha.");
         Console.WriteLine($"Checco recebe dano de {p3.Nome} e fica com {p5.Vida - p3.Forca} de vida  e resolve usar seu ultimo ataque deixando {p3.Nome} com {p3.Vida - (p5.Forca + 100)} de vida e {p3.Nome} com medo resolve fugir da luta\n");
 
         Console.WriteLine($"Checco sobe de nivel!!!");
